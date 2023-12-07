@@ -25,7 +25,7 @@ title: Decades of Change
 tagline: A Study of 1960s and 1970s Visual Culture
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of images from the 1960s and 1970s. Materials are contained to the culture of the United States and cover topics such as politics, activism, art, and scientific progress"
+description: "A collection of images from the 1960s and 1970s. Materials are contained to the culture of the United States and cover topics such as social movements, politics, art, and scientific progress. The orginating location of each digitzed artifact can be found on the map."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Kyle Allen, Matt Clemens, Emily De Angelis, Amalia King, and Tori Wilcox
 
@@ -34,7 +34,7 @@ author: Kyle Allen, Matt Clemens, Emily De Angelis, Amalia King, and Tori Wilcox
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: digital-doom1
+metadata: newdd
 
 ##########
 # Site/Organization Branding 
