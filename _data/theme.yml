@@ -96,8 +96,8 @@ bootswatch: pulse
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: 'Oswald', sans-serif
-font-cdn: <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet"
+base-font-family: 
+font-cdn: 
 
 
 # THEME ICONS [optional!]
