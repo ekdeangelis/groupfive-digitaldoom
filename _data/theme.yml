@@ -96,8 +96,8 @@ bootswatch: pulse
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: # font-family: 'Rajdhani', sans-serif;
-font-cdn: # https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap" rel="stylesheet
+base-font-family: font-family: 'Rajdhani', sans-serif;
+font-cdn: https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap" rel="stylesheet
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
