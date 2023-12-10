@@ -18,13 +18,3 @@ In the 1960s and 1970s, many artistic movements involved challenging the current
 The expected users of this collection are researchers and historians, as well as individuals who are interested in visual art and photography. For this reason, the location metadata indicates the originating institution of each digital artifact. So that interested individuals can know where to go should they wish to see these materials in person. This collection would also appeal to researchers who were interested in topics relating to social justice. Another feature is that each object belongs to one of four main subjects: social movements, politics, art, and scientific advancements. This allows for easier discovery and research. 
 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-
